@@ -1,2 +1,0 @@
-# dist
- deployable portfolio
